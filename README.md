@@ -1,7 +1,5 @@
 # iOS-Android-Mobile-App-Pen-Test-Cheatsheet
 
-Cheat Sheet
-
 # Android
 
 1. Unpack a backup file 
